@@ -1,0 +1,248 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.header-bg{
+    background-image: url("../images/banner.jpeg");
+    height: 600px;
+    width: 1230px;
+    background-size: cover;
+    background-attachment: fixed;
+    margin-right: 0px;
+    margin-bottom: 0px;
+}
+
+.d-flex{
+    display: flex;
+}
+.text-white{
+    color: white;
+}
+.text-crimson{
+    color: crimson;
+}
+.justify-between{
+    justify-content: space-between;
+}
+.margin-30{
+    margin: 45px;
+}.list-style-type-none{
+    list-style-type: none;
+}
+.hover-crimson:hover{
+    color: crimson;
+}
+.font-size-40{
+    font-size: 40px;
+}
+.font-arial{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.padding-50{
+    padding: 50px;
+}
+.font-size-70{
+    font-size: 70px;
+}
+.padding-top-70{
+    padding-top: 70px;
+}
+.no-underline{
+    text-decoration: none;
+}
+.padding-5{
+    padding: 20px;
+}
+.border{
+    border: 2px solid crimson;
+
+}
+.margin-top-10{
+    margin-top: 10px;
+}
+.padding-left-30{
+    padding-left: 30px;
+}
+.padding-right-30{
+    padding-right: 30px;
+}
+.border-raddius-10{
+    border-radius: 10px;
+}
+.bg-crimson{
+    background-color: crimson;
+}
+.hover-transparent:hover{
+    background-color: transparent;
+}
+.text-center{
+    text-align: center;
+}
+.w-600{
+    width: 600px;
+}
+.h-500{
+    height: 500px;
+}
+.font-size{
+    font-size: 20px;
+}
+.margin-top-100{
+    margin-top: 100px;
+
+}
+.black-bg{
+    background-color: rgba(0, 0, 0, 0.939);
+}
+.h-600{
+    height: 600px;
+}
+.padding-top-100{
+    padding-top: 100px;
+}
+.border1{
+    border: 2px solid;
+}
+.w-300{
+    width: 230px;
+}
+.h-300{
+    height: 300px;
+}
+.white-color{
+    color: white;
+    
+}
+.w-70{
+    width: 70px;
+}
+.h-70{
+    height: 70px;
+}
+.gray-bg{
+    background-color: rgba(235, 229, 229, 0.092);
+}
+.justify-center{
+    justify-content: center;
+}
+.float-center{
+    text-align: center;
+}
+.margin-20{
+    margin: 20px;
+}
+.font-size-30{
+    font-size: 30px;
+}
+.font-size-20{
+    font-size: 20px;
+}
+.font-size-17{
+    font-size: 17px;
+}
+
+
+.h-15{
+    height: 15px;
+}
+.width-75{
+    width: 75%;
+}
+.bg-gray{
+    background-color: rgba(128, 128, 128, 0.326);
+}
+.width-100{
+    width: 100%;
+}
+.width-60{
+    width: 60%;
+}
+.width-30{
+    width: 30%;
+}
+.width-40{
+    width: 40%;
+}
+.width-30{
+    width: 40%;
+}
+.h-550{
+    height: 550px;
+}
+.h-300{
+    height: 300px;
+}
+.w-350{
+    width: 260px;
+}
+.border-raddius-90{
+    border-radius: 90px;
+
+
+    
+}
+.h-100{
+    height: 100px;
+}
+.w-310{
+    width: 250px;
+}
+.font-size-30{
+    font-size: 30px;
+}
+.border2{
+    border: 2px solid crimson;
+}
+.border3{
+    border: 2px solid rgba(148, 142, 142, 0.3);
+}
+.w-250{
+    width: 250px;
+}
+.h-20{
+    height: 30px;
+}
+.padding-6{
+    padding: 5px;
+    padding-left: 5px;
+    padding-top: 5px;
+}
+.border-raddius-5{
+    border-radius: 5px;
+}
+.w-515{
+    width: 515px;
+}
+.margin-100{
+    margin: 100px;
+}
+.font-size-10{
+    font-size: 18px;
+}
+.margin-right-8{
+    margin-right: 8px;
+}
+.w-30{
+    width: 40px;
+}
+.h-30{
+    height: 30px;
+}
+.margin-left-30{
+    margin-left: 30px;
+}
+.w-900{
+    width: 101%;
+}
+.padding-top-40{
+    padding-top: 30px;
+}
+.border-col{
+    border: 1px solid red;
+}
+.padding-left-10{
+    padding-left: 10px;
+}
+.crimson-hover:hover{
+    background-color: crimson;
+
+}
