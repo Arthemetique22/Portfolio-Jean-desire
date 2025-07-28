@@ -245,3 +245,8 @@
 .crimson-hover:hover{
     background-color: crimson;
 }
+input:focus{
+    outline: none;
+    border: 3px solid #0dcaf0;
+    box-shadow: 0 0 5px #0dcaf0;
+}
